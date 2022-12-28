@@ -28,7 +28,7 @@
                 <div class="col-lg-7 mt-4 mt-lg-0">
                     <h2 class="position-relative text-center bg-white text-primary rounded p-3 mt-4 mb-4 d-none d-lg-block" style="width: 350px; margin-left: -205px;">25 Years Experience</h2>
                     <h6 class="text-uppercase">Learn About Us</h6>
-                    <p class="mb-4">Our long history as a global firm means we are uniquely placed to help our clients resolve their most complex legal challenges wherever they are. Clients throughout the world seek the advice of our antitrust lawyers.The law firm deal privately but a very powerful lawfirm not known by a lot </p>
+                    <p class="mb-4">Our long history as a powerful private law firm with our head office in Portugal and a branch in the USA means we are uniquely placed to help our clients resolve their most complex legal challenges wherever they are. Our attorney have license to defend in many countries. Clients throughout the world seek the advice of our antitrust lawyers.</p>
                 </div>
             </div>
         </div>

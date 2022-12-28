@@ -41,19 +41,19 @@
             <div class="col-lg-9">
                 <div class="row bg-white border-bottom d-none d-lg-flex">
                     <div class="col-lg-7 text-left">
-                        <div class="h-100 d-inline-flex align-items-center py-2 px-3">
+                        <!-- <div class="h-100 d-inline-flex align-items-center py-2 px-3">
                             <i class="fa fa-envelope text-primary mr-2"></i>
                             <small>info@bigtasklawfirm.com</small>
                         </div>
                         <div class="h-100 d-inline-flex align-items-center py-2 px-2">
                             <i class="fa fa-phone-alt text-primary mr-2"></i>
                             <small>+18148737507 ,+351 920266183</small>
-                        </div>
+                        </div> -->
                         
                     </div>
                     <div class="col-lg-5 text-right">
                         <div class="d-inline-flex align-items-center p-2">
-                            <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
+                            <!-- <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
                             <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
@@ -67,7 +67,7 @@
                             </a>
                             <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
                                 <i class="fab fa-youtube"></i>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>

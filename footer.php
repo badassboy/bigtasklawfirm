@@ -28,7 +28,7 @@
                     <i class="fa fa-2x fa-phone-alt text-primary"></i>
                     <div class="ml-3">
                         <h5 class="text-white">Call Us</h5>
-                        <p class="m-0">+1619 345 6987</p>
+                        <p class="m-0">+18148737507 ,+351 920266183</p>
                     </div>
                 </div>
             </div>
@@ -42,10 +42,10 @@
                 </a>
                 <p>We implement the best law practices in our services which increase our genuity and reliable.Come and experience the new world of legal practice</p>
                 <div class="d-flex justify-content-start mt-4">
-                    <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
+                    <!-- <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-lg btn-outline-light btn-lg-square" href="#"><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-lg btn-outline-light btn-lg-square" href="#"><i class="fab fa-instagram"></i></a> -->
                 </div>
             </div>
 
@@ -54,8 +54,8 @@
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-white mb-2" href="index.php"><i class="fa fa-angle-right mr-2"></i>Home</a>
                     <a class="text-white mb-2" href="about.php"><i class="fa fa-angle-right mr-2"></i>About</a>
-                    <a class="text-white mb-2" href="services.php"><i class="fa fa-angle-right mr-2"></i>Services</a>
-                    <a class="text-white mb-2" href="attorney.php"><i class="fa fa-angle-right mr-2"></i>Attorney</a>
+                    <a class="text-white mb-2" href="service.php"><i class="fa fa-angle-right mr-2"></i>Services</a>
+                    <a class="text-white mb-2" href="team.php"><i class="fa fa-angle-right mr-2"></i>Attorney</a>
                     <a class="text-white" href="contact.php"><i class="fa fa-angle-right mr-2"></i>Contact</a>
                 </div>
             </div>
