@@ -57,7 +57,7 @@ include("topbar.php");
                     <h2 class="position-relative text-center bg-white text-primary rounded p-3 mt-4 mb-4 d-none d-lg-block" style="width: 350px; margin-left: -205px;">25 Years Experience</h2>
                     <h6 class="text-uppercase">Learn About Us</h6>
                     <h1 class="mb-4">We Provide Reliable And Effective Legal Services</h1>
-                    <p>Our long history as a global firm means we are uniquely placed to help our clients resolve their most complex legal challenges wherever they are. Clients throughout the world seek the advice of our antitrust lawyers. They count on our extensive experience in litigation against governmental authorities or private parties, counseling on delicate questions and comprehensive worldwide coverage of merger control regimes</p>
+                    <p>Our long history as a powerful private law firm with our head office in Portugal and a branch in the USA means we are uniquely placed to help our clients resolve their most complex legal challenges wherever they are. Our attorney have license to defend in many countries. Clients throughout the world seek the advice of our antitrust lawyers.</p>
                     <a href="" class="btn btn-primary mt-2">Learn More</a>
                 </div>
             </div>

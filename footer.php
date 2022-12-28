@@ -90,8 +90,8 @@
             <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
                 <p class="m-0 text-white">&copy; <a class="font-weight-bold" href="#">bigtasklawfirm.com</a>. All Rights Reserved.</p>
             </div>
-            <div class="col-md-6 text-center text-md-right">
+           <!--  <div class="col-md-6 text-center text-md-right">
                 <p class="m-0 text-white">Designed by <a class="font-weight-bold" href="https://cloudsoftgh.com">Cloudsoft Technologies</a></p>
-            </div>
+            </div> -->
         </div>
     </div>
