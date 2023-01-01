@@ -61,7 +61,7 @@
                             <h5 class="mb-2 px-4">Davlyn Hills</h5>
                             <p class="mb-3 px-4">Barrister (Senior Defence Lawyer)</p>
                             <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/third.jpg" alt="">
+                                <img class="img-fluid" src="img/davlyn.jpeg" alt="">
                                 <div class="team-social">
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
