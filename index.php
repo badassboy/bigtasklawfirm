@@ -254,6 +254,7 @@ include("topbar.php");
                                 </div>
                             </div>
                         </div>
+
                         <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
                             <h5 class="mb-2 px-4">Roger Williams</h5>
                             <p class="mb-3 px-4">Barrister</p>
@@ -266,6 +267,7 @@ include("topbar.php");
                                 </div>
                             </div>
                         </div>
+
                         <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
                             <h5 class="mb-2 px-4">Davlyn Hills</h5>
                             <p class="mb-3 px-4">Barrister (Senior Defence Lawyer)</p>
@@ -278,6 +280,7 @@ include("topbar.php");
                                 </div>
                             </div>
                         </div>
+
                         <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
                             <h5 class="mb-2 px-4">Jeniffer Cokar</h5>
                             <p class="mb-3 px-4">Barrister (Family Law)</p>
@@ -290,6 +293,25 @@ include("topbar.php");
                                 </div>
                             </div>
                         </div>
+
+                         <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
+                            <h5 class="mb-2 px-4">Thomas Foster</h5>
+                            <p class="mb-3 px-4">Barrister</p>
+                            <div class="team-img position-relative">
+                                <img class="img-fluid" src="img/thomas.jpeg" alt="">
+                                <div class="team-social">
+                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
 
                        
 
